@@ -2,18 +2,27 @@
 Level-1: Schema Design
 
 Connected Succesfully to MongoDb
-![](DemoImages/Mongo.png)
+![](DemoImages/db.png)
 
 Working Good in :
 
 1: POST in POSTMAN for food
-![](DemoImages/food.png)
+![](DemoImages/insertfood.png)
 
 2: POST in POSTMAN for meal
-![](DemoImages/meal.png)
+![](DemoImages/insertmeal.png)
 
 3: POST in POSTMAN for user
-![](DemoImages/user.png)
+![](DemoImages/insertuser.png)
+
+4: PATCH in POSTMAN for food
+![](DemoImages/updatefood.png)
+
+5: PATCH in POSTMAN for meal
+![](DemoImages/updatemeal.png)
+
+6: PATCH in POSTMAN for user
+![](DemoImages/updateuser.png)
 
 
 Successfully Connection establised with DataBase and ExpressJs
